@@ -21,7 +21,7 @@ Por ser um projeto puramente estático (Vanilla HTML/JS/CSS), não há necessida
 
 Faça o clone deste repositório:
 
-git clone [https://github.com/SEU_USUARIO/gerador-de-curriculos.git](https://github.com/SEU_USUARIO/gerador-de-curriculos.git)
+git clone [https://github.com/thisisnoctra/Gerador-de-Curriculos-Profissional.git](https://github.com/thisisnoctra/Gerador-de-Curriculos-Profissional.git)
 
 
 Abra a pasta do projeto.
